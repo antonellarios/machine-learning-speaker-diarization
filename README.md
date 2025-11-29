@@ -258,16 +258,6 @@ Junior Data Analyst & Data Scientist Trainee
 
 ---
 
-## ⭐ Why This Project Matters
-
-This project demonstrates:
-
-- Real deep learning engineering  
-- Custom CNN model design  
-- Audio ML workflow mastery  
-- Reproducible training pipeline  
-- Evaluation on real datasets  
-- Practical diarization for real-world audio  
 
 ---
 
